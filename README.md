@@ -19,4 +19,4 @@
 
 * Follow the steps in *[Python Guide](https://realpython.com/how-to-make-a-discord-bot-python/)* for *Creating an Application*
 
-* Follow the steps in *[Python Guide](https://realpython.com/how-to-make-a-discord-bot-python/)* for *Creating an Application*
+* Follow the steps in *[Python Guide](https://realpython.com/how-to-make-a-discord-bot-python/)* for *Creating an Bot*
