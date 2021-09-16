@@ -1,4 +1,4 @@
-# bot.py
+# Cow.py
 import os
 
 import discord
